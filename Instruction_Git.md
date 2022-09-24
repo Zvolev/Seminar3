@@ -7,3 +7,8 @@
     git config --global.name "Evgen"
     git config --global.email "zvolev@mail.ru"
 
+# Создание репозитория
+Чтобы определить Git с какой папкой мы будем работать, мы используем команду инициализации репозитория
+
+    gif init
+
