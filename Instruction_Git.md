@@ -101,7 +101,7 @@
 
     git log --all --oneline --graph
 
-
+![скрин1](Scr.png)
 
 ### Итоги раздела
 
